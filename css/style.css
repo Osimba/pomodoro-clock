@@ -1,0 +1,49 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  background-color: black;
+}
+
+#main {
+  background-color: white;
+  border-color: black;
+  border-radius: 2em;
+}
+
+#main > h1 {
+  font-size: 55px;
+}
+
+#bTime, #sTime {
+  font-size: 65px;
+  margin-right: 5px;
+}
+
+#Bbtns, #Sbtns {
+  margin-top: 20px;
+}
+
+#Bplus, #Bminus, #Splus, #Sminus {
+  font-family: Monoco;
+}
+
+#Timer {
+  font-size: 85px;
+}
+
+#Session {
+  font-size: 85px;
+  margin-top: 20px;
+}
+
+#titles {
+  font-size: 20px;
+}
+
+#titles, #settings {
+  margin: 0 10%;
+}
+
+#start_stop {
+  font-size: 35px;
+}
+
